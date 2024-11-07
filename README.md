@@ -1,5 +1,4 @@
-## Hi there 👋
-<img src="https://raw.githubusercontent.com/IamPulokRoy/IamPulokRoy/refs/heads/main/What-is-Web-Developer.jpg" alt="" width="100%">
+<img src="https://raw.githubusercontent.com/IamPulokRoy/IamPulokRoy/refs/heads/main/What-is-Web-Developer.jpg" alt="" width="100%" height="300px">
 
 **IamPulokRoy/IamPulokRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
