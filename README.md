@@ -1,7 +1,5 @@
 ## Hi there 👋
-<img src="https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct-v2/What-is-Web-Developer.jpg" alt="" width="100%">
-<img src="https://raw.githubusercontent.com/IamPulokRoy/University-Website-Template/refs/heads/main/Screenshot%202024-11-07%20105733.png" alt="" srcset="" width="100%">
-<img src="https://images.shiksha.com/mediadata/shikshaOnline/mailers/2021/naukri-learning/oct/27oct-v2/What-is-Web-Developer.jpg" alt="" srcset="" width="100%">
+<img src="https://raw.githubusercontent.com/IamPulokRoy/IamPulokRoy/refs/heads/main/What-is-Web-Developer.jpg" alt="" width="100%">
 
 **IamPulokRoy/IamPulokRoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
